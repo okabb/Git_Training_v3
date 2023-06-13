@@ -1,3 +1,2 @@
 This is a Sample File 1
-now we will test revert command which diff from reset.
- 
+TEST : now we will test revert command which diff from reset
