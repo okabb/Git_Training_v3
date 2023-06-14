@@ -1,4 +1,1 @@
 This is a Sample File 1
-TEST : now we will test revert command which diff from reset 
-TEST 2
-TEST3
