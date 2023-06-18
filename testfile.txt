@@ -1,6 +1,0 @@
-This is test file for sample download
-
-
-other change to test the config 
-
-test commit -am and push
